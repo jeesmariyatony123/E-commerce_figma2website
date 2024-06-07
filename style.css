@@ -19,7 +19,7 @@
 }
 
 #heading {
-    background-image: url(../figma/home.jpg);
+    background-image: url(./figma/home.jpg);
     width: 100%;
     height: 90vh;
     background-size: cover;
@@ -345,7 +345,7 @@ footer {
     }
 
     #heading {
-        background-image: url(../figma/home.jpg);
+        background-image: url(./figma/home.jpg);
         width: 100%;
         height: 90vh;
         background-size: cover;
